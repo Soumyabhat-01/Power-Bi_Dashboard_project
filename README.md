@@ -20,11 +20,6 @@ The **Madhav Ecommerce Sales Dashboard** was developed to provide business stake
 6. **Slicers** – Filters for date, region, category, and customer type for dynamic data exploration.
 
 
-## 🛠️ Tools Used
-
-- Power BI
-- Microsoft Excel (for data preprocessing) 
-
 
 ## 🛠️ Tools Used
 
