@@ -26,6 +26,15 @@ The **Madhav Ecommerce Sales Dashboard** was developed to provide business stake
 - Microsoft Excel (for data preprocessing) 
 
 
+## 🛠️ Tools Used
+
+- Power BI
+- Microsoft Excel (for data preprocessing)
+
+## 📸 Dashboard Preview
+
+![Dashboard Overview]: PowerBI.Dashboard.pdf
+
 ### 🧹 Data Cleaning and Preparation
 
 - Raw sales data was cleaned and preprocessed using Excel.
